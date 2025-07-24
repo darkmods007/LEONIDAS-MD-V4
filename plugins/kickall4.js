@@ -5,7 +5,7 @@ cmd({
     pattern: "kickallfast",
     alias: ["kickall", "kickrush"],
     desc: "*⚡ ʀᴇᴍᴏᴠᴇ ᴀʟʟ ɴᴏɴ-ᴀᴅᴍɪɴ ᴍᴇᴍʙᴇʀs ᴍᴏᴍᴇɴᴛᴀɴᴇᴍᴇɴᴛ*",
-    react: "⚡",
+    react: "💣",
     category: "group",
     filename: __filename,
 }, 
