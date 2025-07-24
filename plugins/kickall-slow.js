@@ -4,7 +4,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 // remove only non-admin members
 cmd({
     pattern: "kickall1",
-    alias: ["kickall", "endgc", "endgroup"],
+    alias: ["kickalls", "endgc", "endgroup"],
     desc: "Remove all non-admin members from the group.",
     react: "🧨",
     category: "group",
