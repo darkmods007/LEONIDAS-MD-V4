@@ -2,11 +2,11 @@ const { cmd } = require('../command');
 const fetch = require('node-fetch');
 
 cmd({
-    pattern: "misc",
+    pattern: "phlogo",
     alias: ["pornhub", "ph"],
     desc: "*ɢéɴéʀᴇ ᴜɴ ʟᴏɢᴏ ᴘᴏʀɴʜᴜʙ ᴀᴠᴇᴄ ᴅᴇᴜx ᴛᴇxᴛᴇs*",
     react: "🎐",
-    category: "logo",
+    category: "misc",
     filename: __filename,
 }, 
 async (conn, mek, m, {
