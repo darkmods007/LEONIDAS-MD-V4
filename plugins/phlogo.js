@@ -2,7 +2,7 @@ const { cmd } = require('../command');
 const fetch = require('node-fetch');
 
 cmd({
-    pattern: "phlogo",
+    pattern: "misc",
     alias: ["pornhub", "ph"],
     desc: "*ɢéɴéʀᴇ ᴜɴ ʟᴏɢᴏ ᴘᴏʀɴʜᴜʙ ᴀᴠᴇᴄ ᴅᴇᴜx ᴛᴇxᴛᴇs*",
     react: "🎐",
