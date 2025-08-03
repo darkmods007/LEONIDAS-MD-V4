@@ -2,8 +2,8 @@
 <h1 align="center">🚀LEONIDAS-MD-V4</h1>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1753290435/kz3laforb7anqvvbbdsx.jpg" width="300"/><br>
-  <b>Fast,THE BEST MULTI DEVICE BOT ,FAST AND POWERFUL,READY TO DESTROY AND RULE !! THE LEONIDAS EMPIRE .</b>
+  <img src="https://files.catbox.moe/scq8uo.jpg" width="300"/><br>
+  <b>THE BEST MULTI DEVICE BOT ,FAST AND POWERFUL,READY TO DESTROY AND RULE !! THE LEONIDAS EMPIRE WILL REIGN FOREVER .</b>
 </p>
 
 <p align="center">
